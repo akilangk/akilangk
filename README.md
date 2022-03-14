@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akilangk
-- 🌱 I’m currently learning Test Automation
+- 🌱 Automation Test Engineer
 - 📫 Drop a mail to akilangk30@gmail.com
 
 <!---
